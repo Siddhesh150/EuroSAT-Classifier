@@ -47,6 +47,7 @@ python train.py
 
 ```bash
 python app.py
+* Running on public URL: https://037b0d17331f669e26.gradio.live
 ```
 
 ## 📄 Methodology
@@ -67,4 +68,4 @@ See methodology.pdf
 
 ## 📌 Author
 
-Your Name
+Siddhesh Thorat
